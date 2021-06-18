@@ -9,7 +9,7 @@ public class x {
 	// Table
 	JTable j;
 
-	// Constructorr
+	// Constructorrr
 	x()
 	{
 		// Frame initiallization
