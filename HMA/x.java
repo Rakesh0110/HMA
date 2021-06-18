@@ -33,7 +33,7 @@ public class x {
 		};
 
 		// Column Names
-		String[] columnNames = { "Emission ID", "Freq/Fmin[MHz]", "BW[KHz]/Fmax..","FTN"};
+		String[] columnNames = { "Emission ID", "Freq/Fmin[MHz]", "BW[KHz]/Fmax...","FTN"};
 
 		// Initializing the JTable
 		j = new JTable(data, columnNames);
